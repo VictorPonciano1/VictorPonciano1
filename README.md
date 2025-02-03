@@ -1,6 +1,8 @@
 # Hi there 👋
 
 Hello, my name is Victor and I'm training to become a future Full Stack Developer.
+Age: 19 years old;
+Country: Brazil;
 
 ## Tecnologies
 
@@ -10,5 +12,6 @@ Hello, my name is Victor and I'm training to become a future Full Stack Develope
 
 ## Languages
 
++ Portuguese: Native Speaker;
 + English: B2 - Advanced;
 + Spanish: Basic;
