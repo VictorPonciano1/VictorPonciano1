@@ -1,3 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-Desenvolvedor Full Stack em treinamento, atualmente com conhecimentos em Java e Tecnologias Web (HTML, CSS e JavaScript);
+Hello, my name is Victor and I'm training to become a future Full Stack Developer.
+
+## Tecnologies
+
++ Java;
++ Web Development: HTML, CSS and JavaScipt;
++ Learning: Angular;
+
+## Languages
+
++ English: B2 - Advanced;
++ Spanish: Basic;
