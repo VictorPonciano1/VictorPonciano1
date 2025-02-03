@@ -13,5 +13,5 @@ Country: Brazil;
 ## Languages
 
 + Portuguese: Native Speaker;
-+ English: B2 - Advanced;
++ English: B2 - Advanced (TOEIC Certificate);
 + Spanish: Basic;
