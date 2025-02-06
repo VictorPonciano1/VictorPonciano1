@@ -2,18 +2,18 @@
 
 Hello, my name is Victor and I'm training to become a future Full Stack Developer.
 
-Age: 19 years old;
-
-Country: Brazil;
-
 ## Tecnologies
 
 + Java;
 + Web Development: HTML, CSS and JavaScipt;
-+ Learning: Angular;
+
+## Learning:
+  
++ Angular;
++ Usage of Database - JDBC inclued;
 
 ## Languages
 
 + Portuguese: Native Speaker;
-+ English: B2 - Advanced (TOEIC Certificate);
++ English: B2 - Advanced (TOEIC Certificate - 885 points);
 + Spanish: Basic;
