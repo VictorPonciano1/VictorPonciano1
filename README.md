@@ -15,5 +15,5 @@ Hello, my name is Victor and I'm training to become a future Full Stack Develope
 ## Languages
 
 + Portuguese: Native Speaker;
-+ English: B2 - Advanced (TOEIC Certificate - 885 points);
++ English: B2 - Advanced (TOEIC Certificate - 885/975 points);
 + Spanish: Basic;
