@@ -2,6 +2,8 @@
 
 Hello, my name is Victor and I'm training to become a future Full Stack Developer.
 
+I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as an intern.
+
 ## Tecnologies
 
 + Java;
