@@ -2,7 +2,7 @@
 
 Hello, my name is Victor and I'm training to become a future Full Stack Developer.
 
-I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as an intern and study at FATEC University Systems Analysis and Development course.
+I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as an intern and study at FATEC University the Systems Analysis and Development course.
 
 ## Tecnologies
 
