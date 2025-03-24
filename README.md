@@ -6,12 +6,12 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as an intern.
 
 ## Tecnologies
 
-+ Java;
-+ Web Development: HTML, CSS and JavaScipt;
++ Java - Intermediary;
++ Web Development: HTML, CSS and JavaScipt - Basic/Beginner;
++ Angular - Basic/Beginner;
 
 ## Learning:
   
-+ Angular;
 + Usage of Database - JDBC inclued;
 
 ## Languages
