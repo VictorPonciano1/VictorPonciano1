@@ -6,10 +6,17 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as an intern and stu
 
 ## Tecnologies
 
-+ Java - Intermediary;
-+ HTML and CSS - Intermediary;
-+ JavaScipt and TypeScript - Basic/Beginner;
-+ Angular - Basic/Beginner;
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ## Learning:
   
