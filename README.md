@@ -18,6 +18,6 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as an intern and stu
 
 ## Languages
 
-+ Portuguese: Native Speaker;
-+ English: B2 - Advanced (TOEIC Certificate - 885/975 points);
-+ Spanish: Basic;
++ 🇧🇷 Portuguese: Native Speaker;
++ 🇪🇸 English: B2 - Advanced (TOEIC Certificate - 885/975 points);
++ 🇺🇸 Spanish: Basic;
