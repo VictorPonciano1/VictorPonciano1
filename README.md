@@ -1,6 +1,6 @@
 # My Biography
 
-Hello, my name is Victor and I'm training to become a future Full Stack Developer.
+Hello, my name is Victor, I'm from Brazil and I'm training to become a future Full Stack Developer.
 
 I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as an intern and study at FATEC University the Systems Analysis and Development course.
 
@@ -18,6 +18,6 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as an intern and stu
 
 ## Languages
 
-+ 🇧🇷 Portuguese: Native Speaker;
-+ 🇪🇸 English: B2 - Advanced (TOEIC Certificate - 885/975 points);
-+ 🇺🇸 Spanish: Basic;
++ Portuguese: Native Speaker;
++ English: B2 - Advanced (TOEIC Certificate - 885/975 points);
++ Spanish: Basic;
