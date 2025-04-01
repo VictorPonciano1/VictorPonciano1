@@ -13,7 +13,7 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as an intern and stu
 
 ## Learning:
   
-+ Usage of Database - SQL and JDBC inclued;
++ Usage of Database - SQL and JDBC/JPA inclued;
 + Python;
 + PHP;
 
