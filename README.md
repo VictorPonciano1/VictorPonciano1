@@ -16,6 +16,7 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as an intern and stu
 + Usage of Database - SQL and JDBC/JPA inclued;
 + Python;
 + PHP;
++ React;
 
 ## Languages
 
