@@ -7,8 +7,8 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as an intern and stu
 ## Tecnologies
 
 + Java - Intermediary;
-+ HTML and CSS - Intermediary
-+ JavaScript/TypeScript - Basic/Beginner (Learning TypeScript);
++ HTML and CSS - Intermediary;
++ JavaScript and TypeScript (including Jquery Library) - Basic/Beginner (Learning TypeScript);
 + Angular - Basic/Beginner;
 
 ## Learning:
