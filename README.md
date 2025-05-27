@@ -2,7 +2,7 @@
 
 Hello, my name is Victor, I'm from Brazil and I'm training to become a future Full Stack Developer.
 
-I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as an intern and study at FATEC University the Systems Analysis and Development course.
+I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as an intern and study at FATEC University the Systems Analysis and Development course (3/6 Semesters).
 
 ## Tecnologies
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPonciano1&layout=compact&theme=radical)](https://github.com/VictorPonciano1/github-readme-stats)
