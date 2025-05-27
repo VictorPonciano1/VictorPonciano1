@@ -12,6 +12,9 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as an intern and stu
 + Angular and TypeScript - Basic/Beginner;
 + Python - Basic/Beginner;
 
+## Top Tecnologies
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPonciano1)](https://github.com/VictorPonciano1/github-readme-stats)
+
 ## Learning:
   
 + Usage of Database - SQL and JDBC/JPA inclued;
