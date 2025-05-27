@@ -18,8 +18,8 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as an intern and stu
 + PHP;
 + React;
 
-## Languages :smile:
+## Languages
 
-+ :🇧🇷: Portuguese: Native Speaker;
-+ :🇺🇸: English: B2 - Advanced (TOEIC Certificate - 885/975);
-+ :🇪🇸: Spanish: Basic;
++ :brazil: Portuguese: Native Speaker;
++ :us: English: B2 - Advanced (TOEIC Certificate - 885/975);
++ :es: Spanish: Basic;
