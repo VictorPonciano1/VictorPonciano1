@@ -25,9 +25,3 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as an intern and stu
 + :brazil: Portuguese: Native Speaker;
 + :us: English: B2 - Advanced (TOEIC Certificate - 885/975);
 + :es: Spanish: Basic;
-<!--
-## Contact me
-<div>
-  <a href = "mailto:victordias.ponciano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
--->
