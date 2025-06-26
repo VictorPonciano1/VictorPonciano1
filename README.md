@@ -15,10 +15,10 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as an intern and stu
 + Python - Basic/Beginner;
 
 ## Learning:
-  
-+ SQL (Database);
-+ PHP;
-+ React;
+
++ Python - Intermediary;
++ Angular/Typescript - Intermediary;
++ SQL (Database - Including JDBC and JPA);
 
 ## Languages
 
