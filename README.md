@@ -11,13 +11,15 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as a Trainee Develop
 + Java - Intermediary;
 + HTML and CSS - Intermediary;
 + JavaScript (including Jquery Library) - Basic/Beginner;
-+ Angular and TypeScript - Basic/Beginner;
++ TypeScript - Basic/Beginner;
++ Angular - Basic/Beginner;
 + Python - Basic/Beginner;
 
 ## Learning:
 
 + Python - Intermediary;
-+ Angular/Typescript - Intermediary;
++ Angular - Intermediary;
++ Typescript - Intermediary;
 + SQL (Database - Including JDBC and JPA);
 
 ## Languages
