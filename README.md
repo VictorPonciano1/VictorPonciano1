@@ -20,7 +20,7 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as a Trainee Develop
 + Python - Intermediary;
 + Angular - Intermediary;
 + Typescript - Intermediary;
-+ SQL (Database - Including JDBC and JPA);
++ SQL and PL/SQL (Database - Including JDBC and JPA);
 
 ## Languages
 
