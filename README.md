@@ -11,7 +11,7 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as a Trainee Develop
 + <img src="https://cdn.simpleicons.org/java" width="16" height="16"> Java - Intermediate;
 + <img src="https://cdn.simpleicons.org/html5" width="16" height="16"> HTML - Intermediate;
 + <img src="https://cdn.simpleicons.org/css3" width="16" height="16"> CSS - Intermediate;
-+ <img src="https://cdn.simpleicons.org/javascript" width="16" height="16"> JavaScript (including Jquery Library) - Beginner;
++ <img src="https://cdn.simpleicons.org/javascript" width="16" height="16"> JavaScript (including jQuery library) - Beginner;
 + <img src="https://cdn.simpleicons.org/typescript" width="16" height="16"> TypeScript - Beginner;
 + <img src="https://cdn.simpleicons.org/angular" width="16" height="16"> Angular - Beginner;
 + <img src="https://cdn.simpleicons.org/python" width="16" height="16"> Python - Beginner;
