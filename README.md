@@ -4,7 +4,7 @@ Hello, my name is Victor, I'm 20 years old, I'm from Brazil 🇧🇷 and I'm tra
 
 I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as a Trainee Developer and study at FATEC University the Systems Analysis and Development course (4/6 Semesters).
 
-![Victor Ponciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorPonciano1&theme=dark&show_icons=true&count_private=true)
+![Victor Ponciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorPonciano1&theme=dark&show_icons=true&count_private=true&hide=issues&hide=contribs)
 
 ## Tecnologies
 [![Top Languages and Tecnologies](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPonciano1&layout=pie&theme=dark&count_private=true&langs_count=10)](https://github.com/VictorPonciano1/github-readme-stats)
