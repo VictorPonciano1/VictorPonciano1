@@ -10,7 +10,7 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as a Trainee Develop
 [![Top Languages and Tecnologies](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPonciano1&theme=dark&count_private=true&langs_count=10)](https://github.com/VictorPonciano1/github-readme-stats)
 + Java - Intermediary;
 + HTML and CSS - Intermediary;
-+ JavaScript (including Jquery Library) - Basic/Beginner;
++ <img src="https://cdn.simpleicons.org/javascript" width="16" height="16"> JavaScript (including Jquery Library) - Basic/Beginner;
 + TypeScript - Basic/Beginner;
 + Angular - Basic/Beginner;
 + Python - Basic/Beginner;
