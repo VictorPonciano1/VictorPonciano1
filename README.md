@@ -13,7 +13,7 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as a Trainee Develop
 + JavaScript (including Jquery Library) - Basic/Beginner;
 + TypeScript - Basic/Beginner;
 + Angular - Basic/Beginner;
-+ Python - Basic/Beginner;
++ ![Python](https://cdn.simpleicons.org/python)Python - Basic/Beginner;
 
 ## Languages
 
