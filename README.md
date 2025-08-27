@@ -15,13 +15,6 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as a Trainee Develop
 + Angular - Basic/Beginner;
 + Python - Basic/Beginner;
 
-## Learning:
-
-+ Python - Intermediary;
-+ Angular - Intermediary;
-+ Typescript - Intermediary;
-+ SQL and PL/SQL (Database - Including JDBC and JPA);
-
 ## Languages
 
 + :us: English: B2 - Advanced (TOEIC Certificate - 885/975);
