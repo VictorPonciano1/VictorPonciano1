@@ -7,7 +7,7 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as a Trainee Develop
 ![Victor Ponciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorPonciano1&theme=dark&show_icons=true&count_private=true&hide=issues,contribs)
 
 ## Tecnologies
-[![Top Languages and Tecnologies](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPonciano1&layout=pie&theme=dark&count_private=true&langs_count=10)](https://github.com/VictorPonciano1/github-readme-stats)
+[![Top Languages and Tecnologies](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPonciano1&theme=dark&count_private=true&langs_count=10)](https://github.com/VictorPonciano1/github-readme-stats)
 + Java - Intermediary;
 + HTML and CSS - Intermediary;
 + JavaScript (including Jquery Library) - Basic/Beginner;
