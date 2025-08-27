@@ -24,6 +24,4 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as a Trainee Develop
 
 ## Languages
 
-+ :brazil: Portuguese: Native Speaker;
 + :us: English: B2 - Advanced (TOEIC Certificate - 885/975);
-+ :es: Spanish: Basic;
