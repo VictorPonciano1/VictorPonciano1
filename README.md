@@ -8,7 +8,7 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as a Trainee Develop
 
 ## Tecnologies
 
-[![Top Languages and Tecnologies](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPonciano1&theme=dark&count_private=true&langs_count=10)](https://github.com/VictorPonciano1/github-readme-stats)
+[![Top Languages and Tecnologies](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPonciano1&theme=dark&count_private=true&langs_count=10&cache_seconds=43200)](https://github.com/VictorPonciano1/github-readme-stats)
 
 + <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="16" height="16"> Java - Intermediate;
 + <img src="https://cdn.simpleicons.org/html5" width="16" height="16"> HTML - Intermediate;
