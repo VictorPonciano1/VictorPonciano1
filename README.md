@@ -4,11 +4,11 @@ Hello, my name is Victor, I'm 20 years old, I'm from Brazil 🇧🇷 and I'm tra
 
 I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as a Trainee Developer and study at FATEC University the Systems Analysis and Development course (4/6 Semesters).
 
-![Victor Ponciano's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorPonciano1&show_icons=true&cache_seconds=43200&theme=dark&count_private=true&hide=contribs)
+![Victor Ponciano's GitHub stats](https://https://github-readme-stats-lake-eta-34.vercel.app/api?username=VictorPonciano1&show_icons=true&cache_seconds=43200&theme=dark&count_private=true&hide=contribs)
 
 ## Tecnologies
 
-[![Top Languages and Tecnologies](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPonciano1&theme=dark&count_private=true&langs_count=10&cache_seconds=43200)](https://github.com/VictorPonciano1/github-readme-stats)
+[![Top Languages and Tecnologies](https://https://github-readme-stats-lake-eta-34.vercel.app/api/top-langs/?username=VictorPonciano1&theme=dark&count_private=true&langs_count=10&cache_seconds=43200)](https://github.com/VictorPonciano1/github-readme-stats)
 
 + <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="16" height="16"> Java - Intermediate;
 + <img src="https://cdn.simpleicons.org/html5" width="16" height="16"> HTML - Intermediate;
