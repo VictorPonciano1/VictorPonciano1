@@ -24,4 +24,6 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as a Junior Develope
 
 ## 💼 Portfolio
 
+Check all my projects:
+
 + [Fatec Projects](https://github.com/fatec-victor)
