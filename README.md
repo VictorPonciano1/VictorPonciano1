@@ -21,9 +21,3 @@ I work at "Foursys Projetos e Sistemas em Infomatica Ltda." as a Junior Develope
 ## 🔊 Languages
 
 + :us: English: B2 (TOEIC Certificate);
-
-## 💼 Portfolio
-
-Check all my projects:
-
-+ [Fatec Projects](https://github.com/fatec-victor)
