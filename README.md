@@ -23,7 +23,7 @@ All the tecnologies that I have knowledge:
 ## 🔊 Languages
 
 + :us: English: B2 (TOEIC Certificate);
-
+<!--
 ## 🗂 Featured Repositories
 
 Here are some Featured Repositories:
