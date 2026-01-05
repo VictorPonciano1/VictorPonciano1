@@ -24,13 +24,15 @@ All the tecnologies that I have knowledge:
 
 + :us: English: B2 (TOEIC Certificate);
 
-<!-- 
 ## 🗂 Featured Repositories
 
 Here are some Featured Repositories:
 
 ### 🧠 Bootcamps
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VictorPonciano1&repo=java-bootcamp-fourcamp)](https://github.com/VictorPonciano1/github-readme-stats)
+
+<!--
 ### 🎓 University 
 
 -->
