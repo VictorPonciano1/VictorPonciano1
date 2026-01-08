@@ -13,7 +13,7 @@ Todas as Tecologias as quais possuo conhecimento:
 [![Top Languages and Tecnologies](https://github-readme-stats-lake-eta-34.vercel.app/api/top-langs/?username=VictorPonciano1&theme=dark&count_private=true&langs_count=10&cache_seconds=43200)](https://github.com/VictorPonciano1/github-readme-stats)
 
 - Intermediário: Java, HTML, CSS  
-- Básico: JavaScript, Angular, Python
+- Básico/Intermediário: JavaScript, Angular, Python
 
 ## 🔊 Línguas
 
