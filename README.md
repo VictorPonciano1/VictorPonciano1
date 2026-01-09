@@ -18,16 +18,18 @@ Atualmente trabalho na empresa "Foursys Tech Ltda." como "Desenvolvedor Jr" e es
 + 🇺🇸 Inglês: C1 (TOEIC);
 + 🇧🇷 Português: Nativo;
 
-<!--
-## 🗂 Featured Repositories
+## 🗂 Repositórios em Destque
 
-Here are some Featured Repositories:
+Aqui estão alguns repositórios em destaque devido ao limite de repositórios que podem ser fixados:
 
 ### 🧠 Bootcamps
 
-[![Bootcamp - Fourcamp](https://github-readme-stats.vercel.app/api/pin/?username=VictorPonciano1&repo=java-bootcamp-fourcamp)]([https://github.com/VictorPonciano1/github-readme-stats](https://github.com/VictorPonciano1/java-bootcamp-fourcamp))
++ **[java-bootcamp-start](https://github.com/VictorPonciano1/java-bootcamp-start)** - Projetos realizados durante o Bootcamp de Java "Programa Start"
++ **[java-bootcamp-fourcamp](https://github.com/VictorPonciano1/java-bootcamp-fourcamp)** - Códigos e Projetos executados durante o Bootcamp de Java "Fourcamp"
++ **[java-bootcamp-dio](https://github.com/VictorPonciano1/java-bootcamp-dio)** - Projetos realizados durante Bootcamp com desenvolvedor parceiro
 
-<!--
-### 🎓 University 
+### 🎓 Faculdade 
 
--->
++ **[fatec-logica-algoritmos](https://github.com/VictorPonciano1/fatec-logica-algoritmos)** - Conteúdo aprendido durante as aulas de "Lógica de Programação e Algoritmos" durante o período do 1º Semestre da Faculdade.
++ **[fatec-linguagem-programacao](https://github.com/VictorPonciano1/fatec-linguagem-programacao)** - Repositório sobre a Matéria "Linguagem de Programação" realizada durante o curso Análise e Desenvolvimento de Sistemas, no período do 2º Semestre.
++ **[fatec-estrutura-dados](https://github.com/VictorPonciano1/fatec-estrutura-dados)** - Códigos realizados durante a disciplina de Estrutura de Dados. Ocorreu durante o 3º Semestre do Curso.
