@@ -27,6 +27,7 @@ Aqui estão alguns repositórios em destaque devido ao limite de repositórios q
 + **[java-bootcamp-start](https://github.com/VictorPonciano1/java-bootcamp-start)** - Projetos realizados durante o Bootcamp de Java "Programa Start"
 + **[java-bootcamp-fourcamp](https://github.com/VictorPonciano1/java-bootcamp-fourcamp)** - Códigos e Projetos executados durante o Bootcamp de Java "Fourcamp"
 + **[java-bootcamp-dio](https://github.com/VictorPonciano1/java-bootcamp-dio)** - Projetos realizados durante Bootcamp com desenvolvedor parceiro
++ **[lab-azure-dio](https://github.com/VictorPonciano1/lab-azure-dio)** - Laboratórios para treinos dos conceitos Azure focados na Certificação AZ900
 
 ### 🎓 Faculdade 
 
