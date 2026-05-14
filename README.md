@@ -35,6 +35,4 @@ Aqui estão alguns repositórios em destaque devido ao limite de repositórios q
 + **[fatec-linguagem-programacao](https://github.com/VictorPonciano1/fatec-linguagem-programacao)** - Repositório sobre a Matéria "Linguagem de Programação" realizada durante o curso Análise e Desenvolvimento de Sistemas, no período do 2º Semestre.
 + **[fatec-estrutura-dados](https://github.com/VictorPonciano1/fatec-estrutura-dados)** - Códigos realizados durante a disciplina de Estrutura de Dados. Ocorreu durante o 3º Semestre do Curso.
 + **[projeto-p1-dados-victor-ponciano](https://github.com/VictorPonciano1/projeto-p1-dados-victor-ponciano)** - Códigos sobre projeto para nota complementar da matéria de Estrutura de Dados.
-<!--
 + **[sistemas-distribuidos-intermediario](https://github.com/VictorPonciano1/sistemas-distribuidos-intermediario)** - Atividade Intermediária da matéria de Sistemas Distribuídos.
--->
